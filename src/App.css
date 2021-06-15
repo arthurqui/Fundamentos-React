@@ -1,4 +1,18 @@
 .App {
     display: flex;
+    flex-direction: column;
+}
+
+.Cards {
+    display: flex;
     flex-wrap: wrap ;
+
+}
+
+.Titulo {
+    font-size: 3rem;
+    font-weight: 650;
+    color: #FFF;
+    -webkit-text-stroke-width: 2.96px;
+    -webkit-text-stroke-color: #000;
 }
