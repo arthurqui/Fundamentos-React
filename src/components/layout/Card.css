@@ -23,12 +23,3 @@
     padding: 5px 0px ;
 }
 
-.tit1 { /*especifico para o titulo do primeiro componente*/
-    font-size: 1.5rem;
-    font-weight: 600;
-}
-
-.tit2 { /*especifico para o subtitulo do primeiro componente*/
-    font-size: 1.2rem;
-    font-weight: 300;
-}
